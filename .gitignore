@@ -1,0 +1,62 @@
+# Unreal Engine
+Binaries/
+Intermediate/
+Saved/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+.env.local
+.env.*.local
+.env
+
+# Build artifacts
+*.o
+*.a
+*.lib
+*.so
+*.dylib
+
+# Compiled binaries
+*.exe
+*.dll
+*.dylib
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Logs
+logs/
+*.log
+
+# Misc
+.DS_Store
+Thumbs.db
